@@ -22,4 +22,5 @@ var factor2 = function (num2) {
 };
 //Checking whether that number is a prime//
 factor2 (6857);
+//We get an 'undefined' result meaning there are no factors//
 
